@@ -1,4 +1,4 @@
-# title
+# title and a more nicer subtitle
 First autor Cristian Alejandro Lombo D
 
 ## Abstract
